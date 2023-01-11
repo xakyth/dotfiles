@@ -102,4 +102,5 @@ PROMPT=${PROMPT/\%c/\%~}
 # alias ohmyzsh="mate ~/.oh-my-zsh
 alias lab="cd /mnt/c/users/roman/study/lab"
 alias sl="ls"
+alias ll="ls -lah"
 eval "$(starship init zsh)"
