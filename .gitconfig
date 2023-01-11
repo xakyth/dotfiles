@@ -1,0 +1,7 @@
+[user]
+	email = xakyth@gmail.com
+	name = xakyth
+[core]
+	editor = vim
+[alias]	
+	graph = log --all --graph --decorate --oneline
